@@ -1,1 +1,1 @@
-press alt + space + c
+alt + space + c
